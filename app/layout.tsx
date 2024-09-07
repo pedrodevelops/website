@@ -6,7 +6,7 @@ import { Header } from "@/components/ui/header";
 import { Footer } from "@/components/ui/footer";
 
 const recursive = localFont({
-  src: "./fonts/Recursive.ttf",
+  src: "../fonts/Recursive.woff2",
 });
 
 export const metadata: Metadata = {
