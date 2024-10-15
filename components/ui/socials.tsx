@@ -33,7 +33,7 @@ export const socials = [
   },
   {
     platform: "LinkedIn",
-    href: "https://www.linkedin.com/in/henrique-gadelha-02468a240/",
+    href: "https://www.linkedin.com/in/pedrodevelops/",
     icon: SiLinkedin,
   },
   {
