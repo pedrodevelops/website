@@ -117,7 +117,7 @@ export default function Home() {
             </div>
             <p>
               Also using typescrip I build websites using modern tools of the
-              React ecosystem, enfatizing user experience
+              React ecosystem, enphatizing user experience
             </p>
             <CardFooter className="flex absolute bottom-4 gap-4">
               <SiTypescript size={28} />
