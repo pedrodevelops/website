@@ -144,29 +144,6 @@ export default function Home() {
         <ul className="space-y-8 w-[50rem]">
           <CardRoot className="w-[45rem]">
             <Link
-              href={"https://github.com/pedrodevelops/livechords"}
-              className="flex gap-2 text-center items-center hover:underline"
-            >
-              <h2 className="scroll-m-20 text-3xl flex font-semibold tracking-tight first:mt-0">
-                Livechords
-              </h2>
-              <ExternalLinkIcon size={24} />
-            </Link>
-            <ul className="space-x-2">
-              <Badge>Fastify</Badge>
-              <Badge>Websocket</Badge>
-              <Badge>MongoDB</Badge>
-              <Badge>Prisma</Badge>
-              <Badge>Docker</Badge>
-            </ul>
-            <p className="scroll-m-20 text-xl tracking-tight">
-              A platform for musicians to perform live concerts, with a realtime
-              chat and tip system for viewers to ask songs for the musicians to
-              play.
-            </p>
-          </CardRoot>
-          <CardRoot className="w-[45rem]">
-            <Link
               href={"https://github.com/pedrodevelops/profile"}
               className="flex gap-2 text-center items-center hover:underline"
             >
